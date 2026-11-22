@@ -1,0 +1,1 @@
+# Real-Time-Password-Strength-Validator-with-Visual-Indicator
